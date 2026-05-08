@@ -1,4 +1,4 @@
-
+Alfred for macOS premium Plugin: quick-launch & scripting-support offers the most advanced Alfred for macOS plugin, with quick-launch and scripting-support. Ideal for macOS power
 
 
 
